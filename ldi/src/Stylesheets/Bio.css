@@ -1,0 +1,30 @@
+div {
+    font-family: 'Work Sans', sans-serif;
+}
+
+h2 {
+    font-size: 35px;
+}
+
+#bio {
+    padding: 10px 60px;
+    font-size: 22px;
+    text-align: justify;
+    line-height: 1.7;
+}
+
+#contact {
+    font-size: 18px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:link {
+    color: #FEA788;
+}
+
+a:hover {
+    color: #B65FCF;
+}
