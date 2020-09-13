@@ -4,6 +4,7 @@ import './App.css';
 import Landing from './components/Landing';
 import Bio from './components/Bio';
 import Portfolio from './components/Portfolio';
+import Footer from './components/Footer';
 
 
 function App() {
@@ -12,6 +13,7 @@ function App() {
         <Landing/>
         <Bio/>
         <Portfolio/>
+        <Footer/>
       </div>
   );
 }
