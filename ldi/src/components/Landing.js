@@ -1,5 +1,5 @@
 import React from 'react';
-import '../Stylesheets/Landing.css';
+import '../stylesheets/Landing.css';
 import img from '../images/excitedDoggo.JPG'
 
 function Landing() {

@@ -1,9 +1,10 @@
 import React from 'react';
 import './App.css';
 
-import Landing from './Components/Landing';
-import Bio from './Components/Bio';
-import Portfolio from './Components/Portfolio';
+import Landing from './components/Landing';
+import Bio from './components/Bio';
+import Portfolio from './components/Portfolio';
+
 
 function App() {
   return (
@@ -16,28 +17,3 @@ function App() {
 }
 
 export default App;
-
-
-
-
-
-
-
-
-
-    // <div className="App">
-    //   <header className="App-header">
-    //     <img src={logo} className="App-logo" alt="logo" />
-    //     <p>
-    //       Edit <code>src/App.js</code> and save to reload.
-    //     </p>
-    //     <a
-    //       className="App-link"
-    //       href="https://reactjs.org"
-    //       target="_blank"
-    //       rel="noopener noreferrer"
-    //     >
-    //       Learn React
-    //     </a>
-    //   </header>
-    // </div>

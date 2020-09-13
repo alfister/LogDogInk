@@ -22,6 +22,8 @@ h1 {
 #hero-text {
     font-family: 'Sacramento', cursive;
     font-size: 180px;
+    color: #FEA788;
+    text-shadow: 4px 3px #FADBCF;
     /*font-size: calc(70px + 2vmin);*/
 }
 

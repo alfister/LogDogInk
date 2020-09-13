@@ -1,5 +1,5 @@
 import React from 'react';
-import '../Stylesheets/Portfolio.css';
+import '../stylesheets/Portfolio.css';
 
 import birdImg from '../images/bird-scissors.jpg';
 import treeImg from '../images/tree.jpg';

@@ -4,7 +4,11 @@
 
 .App {
   text-align: center;
+  /*background-color: #FFE8E5;*/
+  /*background-image: url("./images/background-img.jpg");*/
 }
+
+
 
 .App-logo {
   height: 40vmin;
