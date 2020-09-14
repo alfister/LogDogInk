@@ -1,7 +1,7 @@
 {
   "name": "log-dog-ink",
   "version": "0.1.0",
-  "homepage": "http://alfister.github.io/LogDogInk",
+  "homepage": "http://alfister.github.io/log-dog-ink/",
   "dependencies": {
     "gh-pages": "^3.1.0",
     "react-router-dom": "^5.2.0"
