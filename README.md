@@ -1,3 +1,3 @@
-# LogDogInk
+# Log Dog Ink
 
 🌲🐕✒
