@@ -20,22 +20,22 @@ function Portfolio() {
             <h2> Portfolio </h2>
 
             <div className="flex-row">
-                <div className="column">
+                <div className="column" data-aos="zoom-in">
                     <img src={birdImg} alt="scissor <--> bird"/>
                     <img src={treeImg} alt="a lake with a secret"/>
                     <img src={llamaImg} alt="white llama"/>
                 </div>
-                <div className="column">
+                <div className="column" data-aos="zoom-in" data-aos-delay="350">
                     <img src={mtnImg} alt="beautiful day in a valley"/>
                     <img src={bellyImg} alt="doggo waiting for belly rub"/>
                     <img src={goatImg} alt="outraged goat"/>
                 </div>
-                <div className="column">
+                <div className="column" data-aos="zoom-in" data-aos-delay="500">
                     <img src={manImg} alt="man from Joseon dynasty"/>
                     <img src={dogImg} alt="sleepy dog"/>
                     <img src={chiImg} alt="Chicago bean"/>
                 </div>
-                <div className="column">
+                <div className="column" data-aos="zoom-in" data-aos-delay="650">
                     <img src={shibaImg} alt="smiling Shiba Inu"/>
                     <img src={poachImg} alt="elephants in danger"/>
                     <img src={catFamImg} alt="cat family"/>

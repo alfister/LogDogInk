@@ -1,11 +1,12 @@
 #portfolio-container {
-    margin-top: 70px;
+    margin-top: 75px;
 }
 
 .flex-row {
     display: flex;
     flex-flow: row wrap;
     padding: 0 50px;
+    margin-bottom: 50px;
 }
 
 .column {
@@ -19,7 +20,6 @@
     margin: 8px;
     width: 100%;
     border-radius: 15%;
-
 }
 
 /*.column img:hover {*/

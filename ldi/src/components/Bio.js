@@ -3,7 +3,7 @@ import '../stylesheets/Bio.css';
 
 function Bio() {
     return (
-        <div>
+        <div data-aos="fade-up" >
             <h2> I'm Ashley and I love art! <span role="img" aria-label="jsx-a11y/accessible-emoji"> 👩‍🎨</span></h2>
             <div id="bio"> Inspired by Lela, my beloved Chigi (Chihuahua-Corgi mix), Log Dog Ink began as a small
                 RedBubble shop I used to get my art out into the world. I like experimenting with different mediums
