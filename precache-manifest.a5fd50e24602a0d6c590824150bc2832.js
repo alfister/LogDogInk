@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "45bb2ee70e97264fe7fdf3b4716f28b0",
+    "revision": "3081dc7a2fbe9ff0e3758e063e8a804e",
     "url": "/log-dog-ink/index.html"
   },
   {
-    "revision": "b0e08777310db7d3f913",
-    "url": "/log-dog-ink/static/css/main.48e96e81.chunk.css"
+    "revision": "3a8f934b008425cb6093",
+    "url": "/log-dog-ink/static/css/2.4707e12a.chunk.css"
   },
   {
-    "revision": "3eca7dc149318c537f34",
-    "url": "/log-dog-ink/static/js/2.9d8cf37c.chunk.js"
+    "revision": "36d93647f2cd75a08aac",
+    "url": "/log-dog-ink/static/css/main.141b2d2a.chunk.css"
+  },
+  {
+    "revision": "3a8f934b008425cb6093",
+    "url": "/log-dog-ink/static/js/2.cfb037b9.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/log-dog-ink/static/js/2.9d8cf37c.chunk.js.LICENSE.txt"
+    "url": "/log-dog-ink/static/js/2.cfb037b9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b0e08777310db7d3f913",
-    "url": "/log-dog-ink/static/js/main.5fb15b47.chunk.js"
+    "revision": "36d93647f2cd75a08aac",
+    "url": "/log-dog-ink/static/js/main.ca69fa6e.chunk.js"
   },
   {
     "revision": "0a1af4550f7eca9e6b28",

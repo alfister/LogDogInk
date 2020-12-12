@@ -1,17 +1,19 @@
 {
   "files": {
-    "main.css": "/log-dog-ink/static/css/main.48e96e81.chunk.css",
-    "main.js": "/log-dog-ink/static/js/main.5fb15b47.chunk.js",
-    "main.js.map": "/log-dog-ink/static/js/main.5fb15b47.chunk.js.map",
+    "main.css": "/log-dog-ink/static/css/main.141b2d2a.chunk.css",
+    "main.js": "/log-dog-ink/static/js/main.ca69fa6e.chunk.js",
+    "main.js.map": "/log-dog-ink/static/js/main.ca69fa6e.chunk.js.map",
     "runtime-main.js": "/log-dog-ink/static/js/runtime-main.da0802d9.js",
     "runtime-main.js.map": "/log-dog-ink/static/js/runtime-main.da0802d9.js.map",
-    "static/js/2.9d8cf37c.chunk.js": "/log-dog-ink/static/js/2.9d8cf37c.chunk.js",
-    "static/js/2.9d8cf37c.chunk.js.map": "/log-dog-ink/static/js/2.9d8cf37c.chunk.js.map",
+    "static/css/2.4707e12a.chunk.css": "/log-dog-ink/static/css/2.4707e12a.chunk.css",
+    "static/js/2.cfb037b9.chunk.js": "/log-dog-ink/static/js/2.cfb037b9.chunk.js",
+    "static/js/2.cfb037b9.chunk.js.map": "/log-dog-ink/static/js/2.cfb037b9.chunk.js.map",
     "index.html": "/log-dog-ink/index.html",
-    "precache-manifest.0de5c270fb28591a58f10db0205b8189.js": "/log-dog-ink/precache-manifest.0de5c270fb28591a58f10db0205b8189.js",
+    "precache-manifest.a5fd50e24602a0d6c590824150bc2832.js": "/log-dog-ink/precache-manifest.a5fd50e24602a0d6c590824150bc2832.js",
     "service-worker.js": "/log-dog-ink/service-worker.js",
-    "static/css/main.48e96e81.chunk.css.map": "/log-dog-ink/static/css/main.48e96e81.chunk.css.map",
-    "static/js/2.9d8cf37c.chunk.js.LICENSE.txt": "/log-dog-ink/static/js/2.9d8cf37c.chunk.js.LICENSE.txt",
+    "static/css/2.4707e12a.chunk.css.map": "/log-dog-ink/static/css/2.4707e12a.chunk.css.map",
+    "static/css/main.141b2d2a.chunk.css.map": "/log-dog-ink/static/css/main.141b2d2a.chunk.css.map",
+    "static/js/2.cfb037b9.chunk.js.LICENSE.txt": "/log-dog-ink/static/js/2.cfb037b9.chunk.js.LICENSE.txt",
     "static/media/LelaBellyRub.png": "/log-dog-ink/static/media/LelaBellyRub.f37e5cf0.png",
     "static/media/Llama.png": "/log-dog-ink/static/media/Llama.80f64539.png",
     "static/media/ShibaInu.png": "/log-dog-ink/static/media/ShibaInu.31b6e9a2.png",
@@ -28,8 +30,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.da0802d9.js",
-    "static/js/2.9d8cf37c.chunk.js",
-    "static/css/main.48e96e81.chunk.css",
-    "static/js/main.5fb15b47.chunk.js"
+    "static/css/2.4707e12a.chunk.css",
+    "static/js/2.cfb037b9.chunk.js",
+    "static/css/main.141b2d2a.chunk.css",
+    "static/js/main.ca69fa6e.chunk.js"
   ]
 }
