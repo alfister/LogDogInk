@@ -1,31 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3081dc7a2fbe9ff0e3758e063e8a804e",
+    "revision": "f5208d71641e6e0ca5830555ae5cbdd5",
     "url": "/log-dog-ink/index.html"
   },
   {
-    "revision": "3a8f934b008425cb6093",
+    "revision": "d9ab953e8e5b95df0ee9",
     "url": "/log-dog-ink/static/css/2.4707e12a.chunk.css"
   },
   {
-    "revision": "36d93647f2cd75a08aac",
-    "url": "/log-dog-ink/static/css/main.141b2d2a.chunk.css"
+    "revision": "5860b1c26dc0fa1f8a3c",
+    "url": "/log-dog-ink/static/css/main.dba8c3ef.chunk.css"
   },
   {
-    "revision": "3a8f934b008425cb6093",
-    "url": "/log-dog-ink/static/js/2.cfb037b9.chunk.js"
+    "revision": "d9ab953e8e5b95df0ee9",
+    "url": "/log-dog-ink/static/js/2.906d03e5.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/log-dog-ink/static/js/2.cfb037b9.chunk.js.LICENSE.txt"
+    "url": "/log-dog-ink/static/js/2.906d03e5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "36d93647f2cd75a08aac",
-    "url": "/log-dog-ink/static/js/main.ca69fa6e.chunk.js"
+    "revision": "5860b1c26dc0fa1f8a3c",
+    "url": "/log-dog-ink/static/js/main.5f11c7b0.chunk.js"
   },
   {
     "revision": "0a1af4550f7eca9e6b28",
     "url": "/log-dog-ink/static/js/runtime-main.da0802d9.js"
+  },
+  {
+    "revision": "db449d46f2373b134ca2253139738bcf",
+    "url": "/log-dog-ink/static/media/InMyLife.db449d46.png"
   },
   {
     "revision": "f37e5cf0df54ee6910e30290e0e79890",
@@ -34,6 +38,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "80f64539d080142a9d62f88c076e9860",
     "url": "/log-dog-ink/static/media/Llama.80f64539.png"
+  },
+  {
+    "revision": "d6240f80856c6f1d017cdd2970c570e2",
+    "url": "/log-dog-ink/static/media/Love'sSurvival.d6240f80.png"
   },
   {
     "revision": "31b6e9a23becf5c8eeae8bfcbfbc6514",

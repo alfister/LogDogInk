@@ -1,21 +1,23 @@
 {
   "files": {
-    "main.css": "/log-dog-ink/static/css/main.141b2d2a.chunk.css",
-    "main.js": "/log-dog-ink/static/js/main.ca69fa6e.chunk.js",
-    "main.js.map": "/log-dog-ink/static/js/main.ca69fa6e.chunk.js.map",
+    "main.css": "/log-dog-ink/static/css/main.dba8c3ef.chunk.css",
+    "main.js": "/log-dog-ink/static/js/main.5f11c7b0.chunk.js",
+    "main.js.map": "/log-dog-ink/static/js/main.5f11c7b0.chunk.js.map",
     "runtime-main.js": "/log-dog-ink/static/js/runtime-main.da0802d9.js",
     "runtime-main.js.map": "/log-dog-ink/static/js/runtime-main.da0802d9.js.map",
     "static/css/2.4707e12a.chunk.css": "/log-dog-ink/static/css/2.4707e12a.chunk.css",
-    "static/js/2.cfb037b9.chunk.js": "/log-dog-ink/static/js/2.cfb037b9.chunk.js",
-    "static/js/2.cfb037b9.chunk.js.map": "/log-dog-ink/static/js/2.cfb037b9.chunk.js.map",
+    "static/js/2.906d03e5.chunk.js": "/log-dog-ink/static/js/2.906d03e5.chunk.js",
+    "static/js/2.906d03e5.chunk.js.map": "/log-dog-ink/static/js/2.906d03e5.chunk.js.map",
     "index.html": "/log-dog-ink/index.html",
-    "precache-manifest.a5fd50e24602a0d6c590824150bc2832.js": "/log-dog-ink/precache-manifest.a5fd50e24602a0d6c590824150bc2832.js",
+    "precache-manifest.3cd9a93fc2a7d216b0d09b0712501c25.js": "/log-dog-ink/precache-manifest.3cd9a93fc2a7d216b0d09b0712501c25.js",
     "service-worker.js": "/log-dog-ink/service-worker.js",
     "static/css/2.4707e12a.chunk.css.map": "/log-dog-ink/static/css/2.4707e12a.chunk.css.map",
-    "static/css/main.141b2d2a.chunk.css.map": "/log-dog-ink/static/css/main.141b2d2a.chunk.css.map",
-    "static/js/2.cfb037b9.chunk.js.LICENSE.txt": "/log-dog-ink/static/js/2.cfb037b9.chunk.js.LICENSE.txt",
+    "static/css/main.dba8c3ef.chunk.css.map": "/log-dog-ink/static/css/main.dba8c3ef.chunk.css.map",
+    "static/js/2.906d03e5.chunk.js.LICENSE.txt": "/log-dog-ink/static/js/2.906d03e5.chunk.js.LICENSE.txt",
+    "static/media/InMyLife.png": "/log-dog-ink/static/media/InMyLife.db449d46.png",
     "static/media/LelaBellyRub.png": "/log-dog-ink/static/media/LelaBellyRub.f37e5cf0.png",
     "static/media/Llama.png": "/log-dog-ink/static/media/Llama.80f64539.png",
+    "static/media/Love'sSurvival.png": "/log-dog-ink/static/media/Love'sSurvival.d6240f80.png",
     "static/media/ShibaInu.png": "/log-dog-ink/static/media/ShibaInu.31b6e9a2.png",
     "static/media/bird-scissors.jpg": "/log-dog-ink/static/media/bird-scissors.8d27ee86.jpg",
     "static/media/catFamily.png": "/log-dog-ink/static/media/catFamily.a3ed4e9e.png",
@@ -31,8 +33,8 @@
   "entrypoints": [
     "static/js/runtime-main.da0802d9.js",
     "static/css/2.4707e12a.chunk.css",
-    "static/js/2.cfb037b9.chunk.js",
-    "static/css/main.141b2d2a.chunk.css",
-    "static/js/main.ca69fa6e.chunk.js"
+    "static/js/2.906d03e5.chunk.js",
+    "static/css/main.dba8c3ef.chunk.css",
+    "static/js/main.5f11c7b0.chunk.js"
   ]
 }
