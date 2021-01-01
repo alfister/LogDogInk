@@ -4,7 +4,7 @@ import img from '../images/excitedDoggo.JPG'
 
 function Landing() {
     return (
-        <div className="landing-container">
+        <div id="landing-container">
             <div data-aos="fade-right">
                 <h1 id="hero-text">Hi<br />     there!</h1>
             </div>

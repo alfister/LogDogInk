@@ -6,6 +6,7 @@ import './App.css';
 import Landing from './components/Landing';
 import Bio from './components/Bio';
 import Portfolio from './components/Portfolio';
+import WTPromo from './components/WTPromo';
 import Footer from './components/Footer';
 
 
@@ -23,6 +24,7 @@ function App() {
         <Landing/>
         <Bio/>
         <Portfolio/>
+        <WTPromo/>
         <Footer/>
       </div>
   );

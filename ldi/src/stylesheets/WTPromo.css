@@ -1,0 +1,40 @@
+#webtoon-container {
+    margin-bottom: 50px;
+}
+
+#webtoon-grid {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 90%;
+    margin: auto;
+}
+
+.wt-overview {
+    width: 40%;
+    margin: 35px;
+    padding: 25px 0 0 15px;
+    border-radius: 25px;
+
+    font-size: 22px;
+    text-align: justify;
+    line-height: 1.7;
+    color: black;
+}
+
+h3 {
+    font-size: 27px;
+}
+
+p {
+    font-size: 22px;
+}
+
+.webtoon-img {
+    height: 180px;
+    width: 180px;
+    border-radius: 90%;
+    border: 7px solid #FEA788;
+    margin-left: 140px;
+}
